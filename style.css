@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(189, 210, 228);
+}
+
+
+.div-primaria {
+    margin: auto;
+    background-color: white;
+    border-radius: 22px;
+    width: 450px;
+    height: 700px;
+    
+    
+    
+}
+.imagem-qr,img {
+    width: 93%;
+    border-radius: 20px;
+    margin: 0 auto;
+    margin: 15px;
+}
+
+
+p {
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.5);
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+}
+
+strong {
+    font-size: 25px;
+    color: black;
+}
+
+
+
+
+@media (max-width: 1440px) {
+    
+
+    p {
+        margin: px;
+    }
+}
